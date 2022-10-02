@@ -1,0 +1,4 @@
+file_path : '/Users/saim/Documents/wunderflats/Data/username.csv'
+file_delimiter : ';'
+bigquery_table_name : 'serene-column-363715.wunderflats.user'
+google_auth_file_path : '/Users/saim/Documents/wunderflats/Code/google_auth.json'
